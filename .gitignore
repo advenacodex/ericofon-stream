@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Build artifacts
+*.bin
+*.elf
+*.map
+
+# Data folder (SPIFFS / LittleFS)
+data/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Secrets
+secrets.h
+include/secrets.h
+.env
+

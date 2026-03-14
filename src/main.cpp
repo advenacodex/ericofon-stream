@@ -1,5 +1,5 @@
 // ==========================
-// ERICOFONO - Main Code
+// ERICOFON - Main Code
 // ==========================
 
 #include "Audio.h"
